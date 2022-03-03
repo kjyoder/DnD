@@ -1,0 +1,1438 @@
+﻿Name,Size,Type,Tags,Alignment,Challenge,XP,Source
+Frog,Tiny,Beast,NA,Unaligned,0,0,mm 322
+Sea Horse,Tiny,Beast,NA,Unaligned,0,0,mm 337
+Awakened Shrub,Small,Plant,NA,Unaligned,0,10,mm 317
+Baboon,Small,Beast,NA,Unaligned,0,10,mm 318
+Badger,Tiny,Beast,NA,Unaligned,0,10,mm 318
+Bat,Tiny,Beast,NA,Unaligned,0,10,mm 318
+Cat,Tiny,Beast,NA,Unaligned,0,10,mm 320
+Commoner,Medium,Humanoid,NA,Any,0,10,mm 344
+Crab,Tiny,Beast,NA,Unaligned,0,10,mm 320
+Cranium Rat,Tiny,Beast,NA,LE,0,10,vgm 133
+Crawling Claw,Tiny,Undead,NA,NE,0,10,mm 44
+Deer,Medium,Beast,NA,Unaligned,0,10,mm 321
+Eagle,Small,Beast,NA,Unaligned,0,10,mm 322
+Giant Fire Beetle,Small,Beast,NA,Unaligned,0,10,mm 325
+Goat,Medium,Beast,NA,Unaligned,0,10,mm 330
+Hawk,Tiny,Beast,NA,Unaligned,0,10,mm 330
+Homunculus,Tiny,Construct,NA,N,0,10,mm 188
+Hyena,Medium,Beast,NA,Unaligned,0,10,mm 331
+Jackal,Small,Beast,NA,Unaligned,0,10,mm 331
+Lemure,Medium,Fiend,devil,LE,0,10,mm 76
+Lizard,Tiny,Beast,NA,Unaligned,0,10,mm 332
+Myconid Sprout,Small,Plant,NA,LN,0,10,mm 230
+Octopus,Small,Beast,NA,Unaligned,0,10,mm 333
+Owl,Tiny,Beast,NA,Unaligned,0,10,mm 333
+Quipper,Tiny,Beast,NA,Unaligned,0,10,mm 335
+Rat,Tiny,Beast,NA,Unaligned,0,10,mm 335
+Raven,Tiny,Beast,NA,Unaligned,0,10,mm 335
+Scorpion,Tiny,Beast,NA,Unaligned,0,10,mm 337
+Shrieker,Medium,Plant,NA,Unaligned,0,10,mm 138
+Spider,Tiny,Beast,NA,Unaligned,0,10,mm 337
+Vulture,Medium,Beast,NA,Unaligned,0,10,mm 339
+Weasel,Tiny,Beast,NA,Unaligned,0,10,mm 340
+Bandit,Medium,Humanoid,NA,Any non-lawful,44569,25,mm 343
+Blood Hawk,Small,Beast,NA,Unaligned,44569,25,mm 319
+Boggle,Small,Fey,NA,CN,44569,25,vgm 128
+Camel,Large,Beast,NA,Unaligned,44569,25,mm 320
+Cultist,Medium,Humanoid,NA,Any non-good,44569,25,mm 345
+Dolphin,Medium,Beast,NA,Unaligned,44569,25,vgm 208
+Flumph,Small,Aberration,NA,LG,44569,25,mm 135
+Flying Snake,Tiny,Beast,NA,Unaligned,44569,25,mm 322
+Giant Crab,Medium,Beast,NA,Unaligned,44569,25,mm 324
+Giant Rat,Small,Beast,NA,Unaligned,44569,25,mm 327
+Giant Weasel,Medium,Beast,NA,Unaligned,44569,25,mm 329
+Guard,Medium,Humanoid,NA,NA,44569,25,mm 347
+Kobold,Small,Humanoid,kobold,LE,44569,25,mm 195
+Manes,Small,Fiend,demon,CE,44569,25,mm 60
+Mastiff,Medium,Beast,NA,Unaligned,44569,25,mm 332
+Merfolk,Medium,Humanoid,merfolk,N,44569,25,mm 218
+Monodrone,Medium,Construct,NA,LN,44569,25,mm 224
+Mule,Medium,Beast,NA,Unaligned,44569,25,mm 333
+Neogi Hatchling,Tiny,Aberration,NA,LE,44569,25,vgm 179
+Noble,Medium,Humanoid,NA,NA,44569,25,mm 348
+Poisonous Snake,Tiny,Beast,NA,Unaligned,44569,25,mm 334
+Pony,Medium,Beast,NA,Unaligned,44569,25,mm 335
+Slaad Tadpole,Tiny,Aberration,NA,CN,44569,25,mm 276
+Stirge,Tiny,Beast,NA,Unaligned,44569,25,mm 284
+Tribal Warrior,Medium,Humanoid,NA,NA,44569,25,mm 350
+Twig Blight,Small,Plant,NA,NE,44569,25,mm 32
+Xvart,Small,Humanoid,xvart,CE,44569,25,vgm 200
+Young Kruthik,Small,Monstrosity,NA,Unaligned,44569,25,mtf 211
+Aarakocra,Medium,Humanoid,aarakocra,NG,44565,50,mm 12
+Abyssal Wretch,Medium,Fiend,demon,CE,44565,50,mtf 136
+Acolyte,Medium,Humanoid,NA,Any,44565,50,mm 342
+Apprentice Wizard,Medium,Humanoid,NA,Any,44565,50,vgm 209
+Axe Beak,Large,Beast,NA,Unaligned,44565,50,mm 317
+Blink Dog,Medium,Fey,NA,LG,44565,50,mm 318
+Boar,Medium,Beast,NA,Unaligned,44565,50,mm 319
+Bullywug,Medium,Humanoid,bullywug,NE,44565,50,mm 35
+Constrictor Snake,Large,Beast,NA,Unaligned,44565,50,mm 320
+Cow,Large,Beast,NA,Unaligned,44565,50,vgm 207
+Deep Rothe,Medium,Beast,NA,Unaligned,44565,50,vgm 207
+Derro,Small,Humanoid,derro,CE,44565,50,mtf 158
+Dimetrodon,Medium,Beast,NA,Unaligned,44565,50,vgm 139
+Draft Horse,Large,Beast,NA,Unaligned,44565,50,mm 321
+Dretch,Small,Fiend,demon,CE,44565,50,mm 57
+Drow,Medium,Humanoid,elf,NE,44565,50,mm 128
+Duodrone,Medium,Construct,NA,LN,44565,50,mm 225
+Elk,Large,Beast,NA,Unaligned,44565,50,mm 322
+Flying Sword,Small,Construct,NA,Unaligned,44565,50,mm 20
+Giant Badger,Medium,Beast,NA,Unaligned,44565,50,mm 323
+Giant Bat,Large,Beast,NA,Unaligned,44565,50,mm 323
+Giant Centipede,Small,Beast,NA,Unaligned,44565,50,mm 323
+Giant Frog,Medium,Beast,NA,Unaligned,44565,50,mm 325
+Giant Lizard,Large,Beast,NA,Unaligned,44565,50,mm 326
+Giant Owl,Large,Beast,NA,N,44565,50,mm 327
+Giant Poisonous Snake,Medium,Beast,NA,Unaligned,44565,50,mm 327
+Giant Wolf Spider,Medium,Beast,NA,Unaligned,44565,50,mm 330
+Gnoll Witherling,Medium,Undead,NA,CE,44565,50,vgm 155
+Goblin,Small,Humanoid,goblinoid,NE,44565,50,mm 166
+Grimlock,Medium,Humanoid,grimlock,NE,44565,50,mm 175
+Grung,Small,Humanoid,grung,LE,44565,50,vgm 156
+Hadrosaurus,Large,Beast,NA,Unaligned,44565,50,vgm 140
+Kenku,Medium,Humanoid,kenku,CN,44565,50,mm 194
+Kobold Inventor,Small,Humanoid,kobold,LE,44565,50,vgm 166
+Kuo-toa,Medium,Humanoid,kuo-toa,NE,44565,50,mm 199
+Male Steeder,Medium,Monstrosity,NA,Unaligned,44565,50,mtf 238
+Mud Mephit,Small,Elemental,NA,NE,44565,50,mm 216
+Needle Blight,Medium,Plant,NA,NE,44565,50,mm 32
+Oblex Spawn,Tiny,Ooze,NA,LE,44565,50,mtf 217
+Ox,Large,Beast,NA,Unaligned,44565,50,vgm 207
+Panther,Medium,Beast,NA,Unaligned,44565,50,mm 333
+Pixie,Tiny,Fey,NA,NG,44565,50,mm 253
+Pseudodragon,Tiny,Dragon,NA,NG,44565,50,mm 254
+Pteranodon,Medium,Beast,NA,Unaligned,44565,50,mm 80
+Riding Horse,Large,Beast,NA,Unaligned,44565,50,mm 336
+Rothe,Large,Beast,NA,Unaligned,44565,50,vgm 207
+Skeleton,Medium,Undead,NA,LE,44565,50,mm 272
+Smoke Mephit,Small,Elemental,NA,NE,44565,50,mm 217
+Sprite,Tiny,Fey,NA,NG,44565,50,mm 283
+Star Spawn Grue,Small,Aberration,NA,NE,44565,50,mtf 234
+Steam Mephit,Small,Elemental,NA,NE,44565,50,mm 217
+Stench Kow,Large,Beast,NA,Unaligned,44565,50,vgm 207
+Swarm of Bats,Medium,Beast,NA,Unaligned,44565,50,mm 337
+Swarm of Rats,Medium,Beast,NA,Unaligned,44565,50,mm 339
+Swarm of Ravens,Medium,Beast,NA,Unaligned,44565,50,mm 339
+Tortle,Medium,Humanoid,tortle,LG,44565,50,mtf 242
+Troglodyte,Medium,Humanoid,troglodyte,CE,44565,50,mm 290
+Vegepygmy,Small,Plant,NA,N,44565,50,vgm 196
+Velociraptor,Tiny,Beast,NA,Unaligned,44565,50,vgm 140
+Violet Fungus,Medium,Plant,NA,Unaligned,44565,50,mm 138
+Winged Kobold,Small,Humanoid,kobold,LE,44565,50,mm 195
+Wolf,Medium,Beast,NA,Unaligned,44565,50,mm 341
+Wretched Sorrowsworn,Small,Monstrosity,NA,NE,44565,50,mtf 233
+Zombie,Medium,Undead,NA,NE,44565,50,mm 316
+Ape,Medium,Beast,NA,Unaligned,44563,100,mm 317
+Black Bear,Medium,Beast,NA,Unaligned,44563,100,mm 318
+Chitine,Small,Monstrosity,NA,CE,44563,100,vgm 131
+Cockatrice,Small,Monstrosity,NA,Unaligned,44563,100,mm 42
+Crocodile,Large,Beast,NA,Unaligned,44563,100,mm 320
+Darkling,Small,Fey,NA,CN,44563,100,vgm 134
+Darkmantle,Small,Monstrosity,NA,Unaligned,44563,100,mm 46
+Dust Mephit,Small,Elemental,NA,NE,44563,100,mm 215
+Firenewt Warrior,Medium,Humanoid,firenewt,NE,44563,100,vgm 142
+Gas Spore,Large,Plant,NA,Unaligned,44563,100,mm 138
+Gazer,Tiny,Aberration,NA,NE,44563,100,vgm 126
+Giant Goat,Large,Beast,NA,Unaligned,44563,100,mm 326
+Giant Sea Horse,Large,Beast,NA,Unaligned,44563,100,mm 328
+Giant Wasp,Medium,Beast,NA,Unaligned,44563,100,mm 329
+Gnoll,Medium,Humanoid,gnoll,CE,44563,100,mm 163
+Gnoll Hunter,Medium,Humanoid,gnoll,CE,44563,100,vgm 154
+Gray Ooze,Medium,Ooze,NA,Unaligned,44563,100,mm 243
+Hobgoblin,Medium,Humanoid,goblinoid,LE,44563,100,mm 186
+Ice Mephit,Small,Elemental,NA,NE,44563,100,mm 215
+Jackalwere,Medium,Humanoid,shapechanger,CE,44563,100,mm 193
+Lizardfolk,Medium,Humanoid,lizardfolk,N,44563,100,mm 204
+Magma Mephit,Small,Elemental,NA,NE,44563,100,mm 216
+Magmin,Small,Elemental,NA,CN,44563,100,mm 212
+Myconid Adult,Medium,Plant,NA,LN,44563,100,mm 232
+Nupperibo,Medium,Fiend,devil,LE,44563,100,mtf 168
+Orc,Medium,Humanoid,orc,CE,44563,100,mm 246
+Orc Nurtured One of Yurtrus,Medium,Humanoid,orc,CE,44563,100,vgm 184
+Piercer,Medium,Monstrosity,NA,Unaligned,44563,100,mm 252
+Reef Shark,Medium,Beast,NA,Unaligned,44563,100,mm 336
+Rust Monster,Medium,Monstrosity,NA,Unaligned,44563,100,mm 262
+Sahuagin,Medium,Humanoid,sahuagin,LE,44563,100,mm 263
+Satyr,Medium,Fey,NA,CN,44563,100,mm 267
+Scout,Medium,Humanoid,NA,NA,44563,100,mm 349
+Shadow,Medium,Undead,NA,CE,44563,100,mm 269
+Skulk,Medium,Humanoid,NA,CN,44563,100,mtf 227
+Svirfneblin,Small,Humanoid,gnome,NG,44563,100,mm 164
+Swarm of Insects,Medium,Beast,NA,Unaligned,44563,100,mm 338
+Swarm of Rot Grubs,Medium,Beast,NA,Unaligned,44563,100,vgm 208
+Thug,Medium,Humanoid,NA,NA,44563,100,mm 350
+Tridrone,Medium,Construct,NA,LN,44563,100,mm 225
+Vine Blight,Medium,Plant,NA,NE,44563,100,mm 32
+Warhorse,Large,Beast,NA,Unaligned,44563,100,mm 340
+Warhorse Skeleton,Large,Undead,NA,LE,44563,100,mm 273
+Worg,Large,Monstrosity,NA,NE,44563,100,mm 341
+Animated Armor,Medium,Construct,NA,Unaligned,1,200,mm 19
+Brass Dragon Wyrmling,Medium,Dragon,NA,CG,1,200,mm 106
+Bronze Scout,Medium,Construct,NA,Unaligned,1,200,mtf 125
+Brown Bear,Large,Beast,NA,Unaligned,1,200,mm 319
+Bugbear,Medium,Humanoid,goblinoid,CE,1,200,mm 33
+Choker,Small,Aberration,NA,CE,1,200,mtf 123
+Copper Dragon Wyrmling,Medium,Dragon,NA,CG,1,200,mm 112
+Death Dog,Medium,Monstrosity,NA,NE,1,200,mm 321
+Deinonychus,Medium,Beast,NA,Unaligned,1,200,vgm 139
+Dire Wolf,Large,Beast,NA,Unaligned,1,200,mm 321
+Dryad,Medium,Fey,NA,N,1,200,mm 121
+Duergar,Medium,Humanoid,dwarf,LE,1,200,mm 122
+Duergar Soulblade,Medium,Humanoid,dwarf,LE,1,200,mtf 190
+Female Steeder,Large,Monstrosity,NA,Unaligned,1,200,mtf 238
+Fire Snake,Medium,Elemental,NA,NE,1,200,mm 265
+Firenewt Warlock of Imix,Medium,Humanoid,firenewt,NE,1,200,vgm 143
+Ghoul,Medium,Undead,NA,CE,1,200,mm 148
+Giant Eagle,Large,Beast,NA,NG,1,200,mm 324
+Giant Hyena,Large,Beast,NA,Unaligned,1,200,mm 326
+Giant Octopus,Large,Beast,NA,Unaligned,1,200,mm 326
+Giant Spider,Large,Beast,NA,Unaligned,1,200,mm 328
+Giant Strider,Large,Monstrosity,NA,NE,1,200,vgm 143
+Giant Toad,Large,Beast,NA,Unaligned,1,200,mm 329
+Giant Vulture,Large,Beast,NA,NE,1,200,mm 329
+Gnoll Flesh Gnawer,Medium,Humanoid,gnoll,CE,1,200,vgm 154
+Goblin Boss,Small,Humanoid,goblinoid,NE,1,200,mm 166
+Grung Wildling,Small,Humanoid,grung,LE,1,200,vgm 157
+Half-ogre,Large,Giant,NA,Any chaotic,1,200,mm 238
+Harpy,Medium,Monstrosity,NA,CE,1,200,mm 181
+Hippogriff,Large,Monstrosity,NA,Unaligned,1,200,mm 184
+Imp,Tiny,Fiend,"devil, shapechanger",LE,1,200,mm 76
+Kobold Dragonshield,Small,Humanoid,kobold,LE,1,200,vgm 165
+Kobold Scale Sorcerer,Small,Humanoid,kobold,LE,1,200,vgm 167
+Kuo-toa Whip,Medium,Humanoid,kuo-toa,NE,1,200,mm 200
+Lion,Large,Beast,NA,Unaligned,1,200,mm 331
+Maw Demon,Medium,Fiend,demon,CE,1,200,vgm 137
+Meazel,Medium,Humanoid,meazel,NE,1,200,mtf 214
+Nilbog,Small,Humanoid,goblinoid,CE,1,200,vgm 182
+Quadrone,Medium,Construct,NA,LN,1,200,mm 226
+Quaggoth Spore Servant,Medium,Plant,NA,Unaligned,1,200,mm 230
+Quasit,Tiny,Fiend,"demon, shapechanger",CE,1,200,mm 63
+Quickling,Tiny,Fey,NA,CE,1,200,vgm 187
+Scarecrow,Medium,Construct,NA,CE,1,200,mm 268
+Sea Spawn,Medium,Humanoid,NA,NE,1,200,vgm 189
+Specter,Medium,Undead,NA,CE,1,200,mm 279
+Spy,Medium,Humanoid,NA,NA,1,200,mm 349
+Stone Cursed,Medium,Construct,NA,LE,1,200,mtf 240
+Swarm of Quippers,Medium,Beast,NA,Unaligned,1,200,mm 338
+Thorny,Medium,Plant,NA,N,1,200,vgm 197
+Thri-kreen,Medium,Humanoid,thri-kreen,CN,1,200,mm 288
+Tiger,Large,Beast,NA,Unaligned,1,200,mm 339
+Vargouille,Tiny,Fiend,NA,CE,1,200,vgm 195
+Xvart Warlock of Raxivort,Small,Humanoid,xvart,CE,1,200,vgm 200
+Young Faerie Dragon,Tiny,Dragon,NA,CG,1,200,mm 133
+Yuan-ti Pureblood,Medium,Humanoid,yuan-ti,NE,1,200,mm 310
+Adult Faerie Dragon,Tiny,Dragon,NA,CG,2,450,mm 133
+Adult Kruthik,Medium,Monstrosity,NA,Unaligned,2,450,mtf 212
+Allosaurus,Large,Beast,NA,Unaligned,2,450,mm 79
+Ankheg,Large,Monstrosity,NA,Unaligned,2,450,mm 21
+Aurochs,Large,Beast,NA,Unaligned,2,450,vgm 207
+Awakened Tree,Huge,Plant,NA,Unaligned,2,450,mm 317
+Azer,Medium,Elemental,NA,LN,2,450,mm 22
+Bandit Captain,Medium,Humanoid,NA,Any non-lawful,2,450,mm 344
+Bard,Medium,Humanoid,NA,Any,2,450,vgm 211
+Berbalang,Medium,Aberration,NA,NE,2,450,mtf 120
+Berserker,Medium,Humanoid,NA,Any chaotic,2,450,mm 344
+Black Dragon Wyrmling,Medium,Dragon,NA,CE,2,450,mm 88
+Bronze Dragon Wyrmling,Medium,Dragon,NA,LG,2,450,mm 109
+Carrion Crawler,Large,Monstrosity,NA,Unaligned,2,450,mm 37
+Cave Bear,Large,Beast,NA,Unaligned,2,450,mm 334
+Centaur,Large,Monstrosity,NA,NG,2,450,mm 38
+Cult Fanatic,Medium,Humanoid,NA,Any non-good,2,450,mm 345
+Darkling Elder,Medium,Fey,NA,CN,2,450,vgm 134
+Druid,Medium,Humanoid,NA,Any,2,450,mm 346
+Duergar Hammerer,Medium,Construct,NA,LE,2,450,mtf 188
+Duergar Kavalrachni,Medium,Humanoid,dwarf,LE,2,450,mtf 189
+Duergar Mind Master,Medium,Humanoid,dwarf,LE,2,450,mtf 189
+Duergar Stone Guard,Medium,Humanoid,dwarf,LE,2,450,mtf 191
+Duergar Xarrorn,Medium,Humanoid,dwarf,LE,2,450,mtf 193
+Ettercap,Medium,Monstrosity,NA,NE,2,450,mm 131
+Gargoyle,Medium,Elemental,NA,CE,2,450,mm 140
+Gelatinous Cube,Large,Ooze,NA,Unaligned,2,450,mm 242
+Ghast,Medium,Undead,NA,CE,2,450,mm 148
+Giant Boar,Large,Beast,NA,Unaligned,2,450,mm 323
+Giant Constrictor Snake,Huge,Beast,NA,Unaligned,2,450,mm 324
+Giant Elk,Huge,Beast,NA,Unaligned,2,450,mm 325
+Gibbering Mouther,Medium,Aberration,NA,N,2,450,mm 157
+Githzerai Monk,Medium,Humanoid,gith,LN,2,450,mm 161
+Gnoll Pack Lord,Medium,Humanoid,gnoll,CE,2,450,mm 163
+Green Dragon Wyrmling,Medium,Dragon,NA,LE,2,450,mm 95
+Grick,Medium,Monstrosity,NA,N,2,450,mm 173
+Griffon,Large,Monstrosity,NA,Unaligned,2,450,mm 174
+Grung Elite Warrior,Small,Humanoid,grung,LE,2,450,vgm 157
+Guard Drake,Medium,Dragon,NA,Unaligned,2,450,vgm 158
+Hobgoblin Iron Shadow,Medium,Humanoid,goblinoid,LE,2,450,vgm 162
+Hunter Shark,Large,Beast,NA,Unaligned,2,450,mm 330
+Intellect Devourer,Tiny,Aberration,NA,LE,2,450,mm 191
+Lizardfolk Shaman,Medium,Humanoid,lizardfolk,N,2,450,mm 205
+Meenlock,Small,Fey,NA,NE,2,450,vgm 170
+Merrow,Large,Monstrosity,NA,CE,2,450,mm 219
+Mimic,Medium,Monstrosity,shapechanger,N,2,450,mm 220
+Minotaur Skeleton,Large,Undead,NA,LE,2,450,mm 273
+Myconid Sovereign,Large,Plant,NA,LN,2,450,mm 232
+Nothic,Medium,Aberration,NA,NE,2,450,mm 236
+Ochre Jelly,Large,Ooze,NA,Unaligned,2,450,mm 243
+Ogre,Large,Giant,NA,CE,2,450,mm 237
+Ogre Bolt Launcher,Large,Giant,NA,CE,2,450,mtf 220
+Ogre Howdah,Large,Giant,NA,CE,2,450,mtf 221
+Ogre Zombie,Large,Undead,NA,NE,2,450,mm 316
+Orc Claw of Luthic,Medium,Humanoid,orc,CE,2,450,vgm 183
+Orc Eye of Gruumsh,Medium,Humanoid,orc,CE,2,450,mm 247
+Orc Hand of Yurtrus,Medium,Humanoid,orc,CE,2,450,vgm 184
+Orog,Medium,Humanoid,orc,CE,2,450,mm 247
+Pegasus,Large,Celestial,NA,CG,2,450,mm 250
+Pentadrone,Large,Construct,NA,LN,2,450,mm 226
+Peryton,Medium,Monstrosity,NA,CE,2,450,mm 251
+Plesiosaurus,Large,Beast,NA,Unaligned,2,450,mm 80
+Polar Bear,Large,Beast,NA,Unaligned,2,450,mm 334
+Priest,Medium,Humanoid,NA,NA,2,450,mm 348
+Quaggoth,Medium,Humanoid,quaggoth,CN,2,450,mm 256
+Quetzalcoatlus,Huge,Beast,NA,Unaligned,2,450,vgm 140
+Rhinoceros,Large,Beast,NA,Unaligned,2,450,mm 336
+Rug of Smothering,Large,Construct,NA,Unaligned,2,450,mm 20
+Rutterkin,Medium,Fiend,demon,CE,2,450,mtf 136
+Saber-toothed Tiger,Large,Beast,NA,Unaligned,2,450,mm 336
+Sahuagin Priestess,Medium,Humanoid,sahuagin,LE,2,450,mm 264
+Sea Hag,Medium,Fey,NA,CE,2,450,mm 179
+Shadow Mastiff,Medium,Monstrosity,NA,NE,2,450,vgm 190
+Silver Dragon Wyrmling,Medium,Dragon,NA,LG,2,450,mm 118
+Specter (poltergeist),Medium,Undead,NA,CE,2,450,mm 279
+Spined Devil,Small,Fiend,devil,LE,2,450,mm 78
+Swarm of Poisonous Snakes,Medium,Beast,NA,Unaligned,2,450,mm 338
+Tortle Druid,Medium,Humanoid,tortle,LN,2,450,mtf 242
+Vegepygmy Chief,Small,Plant,NA,N,2,450,vgm 197
+Wererat,Medium,Humanoid,"human, shapechanger",LE,2,450,mm 209
+White Dragon Wyrmling,Medium,Dragon,NA,CE,2,450,mm 102
+Will-o-wisp,Tiny,Undead,NA,CE,2,450,mm 301
+Yuan-ti Broodguard,Medium,Humanoid,yuan-ti,NE,2,450,vgm 203
+Ankylosaurus,Huge,Beast,NA,Unaligned,3,700,mm 79
+Archer,Medium,Humanoid,NA,Any,3,700,vgm 210
+Basilisk,Medium,Monstrosity,NA,Unaligned,3,700,mm 24
+Bearded Devil,Medium,Fiend,devil,LE,3,700,mm 70
+Blue Dragon Wyrmling,Medium,Dragon,NA,LE,3,700,mm 91
+Bugbear Chief,Medium,Humanoid,goblinoid,CE,3,700,mm 33
+Bulezau,Medium,Fiend,demon,CE,3,700,mtf 131
+Cave Fisher,Medium,Monstrosity,NA,Unaligned,3,700,vgm 130
+Choldrith,Medium,Monstrosity,NA,CE,3,700,vgm 132
+Deathlock Wight,Medium,Undead,NA,NE,3,700,mtf 129
+Deep Scion,Medium,Humanoid,shapechanger,NE,3,700,vgm 135
+Derro Savant,Small,Humanoid,derro,CE,3,700,mtf 159
+Displacer Beast,Large,Monstrosity,NA,LE,3,700,mm 81
+Doppelganger,Medium,Monstrosity,shapechanger,N,3,700,mm 82
+Duergar Screamer,Medium,Construct,NA,LE,3,700,mtf 190
+Flail Snail,Large,Elemental,NA,Unaligned,3,700,vgm 144
+Giant Scorpion,Large,Beast,NA,Unaligned,3,700,mm 327
+Giff,Medium,Humanoid,NA,LN,3,700,mtf 204
+Githyanki Warrior,Medium,Humanoid,gith,LE,3,700,mm 160
+Gold Dragon Wyrmling,Medium,Dragon,NA,LG,3,700,mm 115
+Green Hag,Medium,Fey,NA,NE,3,700,mm 177
+Grell,Medium,Aberration,NA,NE,3,700,mm 172
+Hell Hound,Medium,Fiend,NA,LE,3,700,mm 182
+Hobgoblin Captain,Medium,Humanoid,goblinoid,LE,3,700,mm 186
+Hook Horror,Large,Monstrosity,NA,N,3,700,mm 189
+Illusionist,Medium,Humanoid,NA,Any,3,700,vgm 214
+Killer Whale,Huge,Beast,NA,Unaligned,3,700,mm 331
+Knight,Medium,Humanoid,NA,NA,3,700,mm 347
+Leucrotta,Large,Monstrosity,NA,CE,3,700,vgm 169
+Manticore,Large,Monstrosity,NA,LE,3,700,mm 213
+Martial Arts Adept,Medium,Humanoid,NA,Any,3,700,vgm 216
+Merrenoloth,Medium,Fiend,yugoloth,NE,3,700,mtf 250
+Minotaur,Large,Monstrosity,NA,CE,3,700,mm 223
+Mummy,Medium,Undead,NA,LE,3,700,mm 228
+Neogi,Small,Aberration,NA,LE,3,700,vgm 180
+Nightmare,Large,Fiend,NA,NE,3,700,mm 235
+Ogre Chain Brute,Large,Giant,NA,CE,3,700,mtf 221
+Orc Red Fang of Shargaas,Medium,Humanoid,orc,CE,3,700,vgm 185
+Owlbear,Large,Monstrosity,NA,Unaligned,3,700,mm 249
+Phase Spider,Large,Monstrosity,NA,Unaligned,3,700,mm 334
+Quaggoth Thonot,Medium,Humanoid,quaggoth,CN,3,700,mm 256
+Redcap,Small,Fey,NA,CE,3,700,vgm 188
+Slithering Tracker,Medium,Ooze,NA,CE,3,700,vgm 191
+Spectator,Medium,Aberration,NA,LN,3,700,mm 30
+Swashbuckler,Medium,Humanoid,NA,Any non-lawful,3,700,vgm 217
+Sword Wraith Warrior,Medium,Undead,NA,LE,3,700,mtf 241
+Trapper,Large,Monstrosity,NA,Unaligned,3,700,vgm 194
+Vampiric Mist,Medium,Undead,NA,CE,3,700,mtf 246
+Veteran,Medium,Humanoid,NA,NA,3,700,mm 350
+Water Weird,Large,Elemental,NA,N,3,700,mm 299
+Werewolf,Medium,Humanoid,"human, shapechanger",CE,3,700,mm 211
+Wight,Medium,Undead,NA,NE,3,700,mm 300
+Winter Wolf,Large,Monstrosity,NA,NE,3,700,mm 340
+Yeti,Large,Monstrosity,NA,CE,3,700,mm 305
+Yuan-ti Malison,Medium,Monstrosity,"shapechanger, yuan-ti",NE,3,700,mm 309
+Babau,Medium,Fiend,demon,CE,4,1100,vgm 136
+Banshee,Medium,Undead,NA,CE,4,1100,mm 23
+Barghest,Large,Fiend,shapechanger,NE,4,1100,vgm 123
+Black Pudding,Large,Ooze,NA,Unaligned,4,1100,mm 241
+Bone Naga,Large,Undead,NA,LE,4,1100,mm 233
+Chuul,Large,Aberration,NA,CE,4,1100,mm 40
+Couatl,Medium,Celestial,NA,LG,4,1100,mm 43
+Deathlock,Medium,Undead,NA,NE,4,1100,mtf 128
+Dybbuk,Medium,Fiend,demon,CE,4,1100,mtf 132
+Elephant,Huge,Beast,NA,Unaligned,4,1100,mm 322
+Ettin,Large,Giant,NA,CE,4,1100,mm 132
+Flameskull,Tiny,Undead,NA,NE,4,1100,mm 134
+Ghost,Medium,Undead,NA,Any,4,1100,mm 147
+Girallon,Large,Monstrosity,NA,Unaligned,4,1100,vgm 152
+Gnoll Fang of Yeenoghu,Medium,Fiend,gnoll,CE,4,1100,mm 163
+Helmed Horror,Medium,Construct,NA,N,4,1100,mm 183
+Hobgoblin Devastator,Medium,Humanoid,goblinoid,LE,4,1100,vgm 161
+Incubus,Medium,Fiend,shapechanger,NE,4,1100,mm 285
+Iron Cobra,Medium,Construct,NA,Unaligned,4,1100,mtf 125
+Lamia,Large,Monstrosity,NA,CE,4,1100,mm 201
+Lizard King/Queen,Medium,Humanoid,lizardfolk,CE,4,1100,mm 205
+Merregon,Medium,Fiend,devil,LE,4,1100,mtf 166
+Neogi Master,Medium,Aberration,NA,LE,4,1100,vgm 180
+Ogre Battering Ram,Large,Giant,NA,CE,4,1100,mtf 220
+Orc Blade of Ilneval,Medium,Humanoid,orc,CE,4,1100,vgm 183
+Orc War Chief,Medium,Humanoid,orc,CE,4,1100,mm 246
+Red Dragon Wyrmling,Medium,Dragon,NA,CE,4,1100,mm 98
+Shadow Demon,Medium,Fiend,demon,CE,4,1100,mm 64
+Stegosaurus,Huge,Beast,NA,Unaligned,4,1100,vgm 140
+Stone Defender,Medium,Construct,NA,Unaligned,4,1100,mtf 126
+Succubus,Medium,Fiend,shapechanger,NE,4,1100,mm 285
+Warlock of the Archfey,Medium,Humanoid,NA,Any,4,1100,vgm 219
+Wereboar,Medium,Humanoid,"human, shapechanger",NE,4,1100,mm 209
+Weretiger,Medium,Humanoid,"human, shapechanger",N,4,1100,mm 210
+Yeth Hound,Large,Fey,NA,NE,4,1100,vgm 201
+Yuan-ti Mind Whisperer,Medium,Monstrosity,"shapechanger, yuan-ti",NE,4,1100,vgm 204
+Yuan-ti Nightmare Speaker,Medium,Monstrosity,"shapechanger, yuan-ti",NE,4,1100,vgm 205
+Adult Oblex,Medium,Ooze,NA,LE,5,1800,mtf 218
+Air Elemental,Large,Elemental,NA,N,5,1800,mm 124
+Allip,Medium,Undead,NA,NE,5,1800,mtf 116
+Banderhobb,Large,Monstrosity,NA,NE,5,1800,vgm 122
+Barbed Devil,Medium,Fiend,devil,LE,5,1800,mm 70
+Barlgura,Large,Fiend,demon,CE,5,1800,mm 56
+Beholder Zombie,Large,Undead,NA,NE,5,1800,mm 316
+Brontosaurus,Gargantuan,Beast,NA,Unaligned,5,1800,vgm 139
+Bulette,Large,Monstrosity,NA,Unaligned,5,1800,mm 34
+Cambion,Medium,Fiend,NA,Any evil,5,1800,mm 36
+Catoblepas,Large,Monstrosity,NA,Unaligned,5,1800,vgm 129
+Drow Elite Warrior,Medium,Humanoid,elf,NE,5,1800,mm 128
+Earth Elemental,Large,Elemental,NA,N,5,1800,mm 124
+Enchanter,Medium,Humanoid,NA,Any,5,1800,vgm 213
+Fire Elemental,Large,Elemental,NA,N,5,1800,mm 125
+Flesh Golem,Medium,Construct,NA,N,5,1800,mm 169
+Giant Crocodile,Huge,Beast,NA,Unaligned,5,1800,mm 324
+Giant Shark,Huge,Beast,NA,Unaligned,5,1800,mm 328
+Gladiator,Medium,Humanoid,NA,Any,5,1800,mm 346
+Gorgon,Large,Monstrosity,NA,Unaligned,5,1800,mm 171
+Half-Red Dragon Veteran,Medium,Humanoid,human,Any,5,1800,mm 180
+Hill Giant,Huge,Giant,NA,CE,5,1800,mm 155
+Kraken Priest,Medium,Humanoid,NA,Any,5,1800,vgm 215
+Kruthik Hive Lord,Large,Monstrosity,NA,Unaligned,5,1800,mtf 212
+Master Thief,Medium,Humanoid,NA,Any,5,1800,vgm 216
+Mezzoloth,Medium,Fiend,yugoloth,NE,5,1800,mm 313
+Mindwitness,Large,Aberration,NA,LE,5,1800,vgm 176
+Night Hag,Medium,Fiend,NA,NE,5,1800,mm 178
+Oaken Bolter,Medium,Construct,NA,Unaligned,5,1800,mtf 126
+Otyugh,Large,Aberration,NA,N,5,1800,mm 248
+Red Slaad,Large,Aberration,NA,CN,5,1800,mm 276
+Revenant,Medium,Undead,NA,N,5,1800,mm 259
+Roper,Large,Monstrosity,NA,NE,5,1800,mm 261
+Sahuagin Baron,Large,Humanoid,sahuagin,LE,5,1800,mm 264
+Salamander,Large,Elemental,NA,NE,5,1800,mm 266
+Shambling Mound,Large,Plant,NA,Unaligned,5,1800,mm 270
+Spawn of Kyuss,Medium,Undead,NA,CE,5,1800,vgm 192
+Star Spawn Mangler,Medium,Aberration,NA,CE,5,1800,mtf 236
+Swarm of Cranium Rats,Medium,Beast,NA,LE,5,1800,vgm 133
+Tanarukk,Medium,Fiend,"demon, orc",CE,5,1800,vgm 186
+Tlincalli,Large,Monstrosity,NA,NE,5,1800,vgm 193
+Transmuter,Medium,Humanoid,NA,Any,5,1800,vgm 218
+Triceratops,Huge,Beast,NA,Unaligned,5,1800,mm 80
+Troll,Large,Giant,NA,CE,5,1800,mm 291
+Umber Hulk,Large,Monstrosity,NA,CE,5,1800,mm 292
+Unicorn,Large,Celestial,NA,LG,5,1800,mm 294
+Vampire Spawn,Medium,Undead,NA,NE,5,1800,mm 298
+Water Elemental,Large,Elemental,NA,N,5,1800,mm 125
+Werebear,Medium,Humanoid,"human, shapechanger",NG,5,1800,mm 208
+Wood Woad,Medium,Plant,NA,LN,5,1800,vgm 198
+Wraith,Medium,Undead,NA,NE,5,1800,mm 302
+Xorn,Medium,Elemental,NA,N,5,1800,mm 304
+Young Remorhaz,Large,Monstrosity,NA,Unaligned,5,1800,mm 258
+Yuan-ti Pit Master,Medium,Monstrosity,"shapechanger, yuan-ti",NE,5,1800,vgm 206
+Annis Hag,Large,Fey,NA,CE,6,2300,vgm 159
+Bodak,Medium,Undead,NA,CE,6,2300,vgm 127
+Chasme,Large,Fiend,demon,CE,6,2300,mm 57
+Chimera,Large,Monstrosity,NA,CE,6,2300,mm 39
+Conjurer,Medium,Humanoid,NA,Any,6,2300,vgm 212
+Cyclops,Huge,Giant,NA,CN,6,2300,mm 45
+Drider,Large,Monstrosity,NA,CE,6,2300,mm 120
+Duergar Warlord,Medium,Humanoid,dwarf,LE,6,2300,mtf 192
+Galeb Duhr,Medium,Elemental,NA,N,6,2300,mm 139
+Gauth,Medium,Aberration,NA,LE,6,2300,vgm 125
+Githzerai Zerth,Medium,Humanoid,gith,LN,6,2300,mm 161
+Hobgoblin Warlord,Medium,Humanoid,goblinoid,LE,6,2300,mm 187
+Invisible Stalker,Medium,Elemental,NA,N,6,2300,mm 192
+Kuo-toa Archpriest,Medium,Humanoid,kuo-toa,NE,6,2300,mm 200
+Mage,Medium,Humanoid,NA,NA,6,2300,mm 347
+Mammoth,Huge,Beast,NA,Unaligned,6,2300,mm 332
+Medusa,Medium,Monstrosity,NA,LE,6,2300,mm 214
+Mouth of Grolantor,Huge,Giant,hill giant,CE,6,2300,vgm 149
+Vrock,Large,Fiend,demon,CE,6,2300,mm 64
+Warlock of the Great Old One,Medium,Humanoid,NA,Any,6,2300,vgm 220
+White Abishai,Medium,Fiend,devil,LE,6,2300,mtf 163
+Wyvern,Large,Dragon,NA,Unaligned,6,2300,mm 303
+Young Brass Dragon,Large,Dragon,NA,CG,6,2300,mm 105
+Young White Dragon,Large,Dragon,NA,CE,6,2300,mm 101
+Air Elemental Myrmidon,Medium,Elemental,NA,N,7,2900,mtf 202
+Armanite,Large,Fiend,demon,CE,7,2900,mtf 131
+Bheur Hag,Medium,Fey,NA,CE,7,2900,vgm 160
+Black Abishai,Medium,Fiend,devil,LE,7,2900,mtf 160
+Blue Slaad,Large,Aberration,NA,CN,7,2900,mm 276
+Dhergoloth,Medium,Fiend,yugoloth,NE,7,2900,mtf 248
+Draegloth,Large,Fiend,demon,CE,7,2900,vgm 141
+Drow Mage,Medium,Humanoid,elf,NE,7,2900,mm 129
+Earth Elemental Myrmidon,Medium,Elemental,NA,N,7,2900,mtf 202
+Fire Elemental Myrmidon,Medium,Elemental,NA,N,7,2900,mtf 203
+Giant Ape,Huge,Beast,NA,Unaligned,7,2900,mm 323
+Grick Alpha,Large,Monstrosity,NA,N,7,2900,mm 173
+Korred,Small,Fey,NA,CN,7,2900,vgm 168
+Lost Sorrowsworn,Medium,Monstrosity,NA,NE,7,2900,mtf 233
+Maurezhi,Medium,Fiend,demon,CE,7,2900,mtf 133
+Mind Flayer,Medium,Aberration,NA,LE,7,2900,mm 222
+Oni,Large,Giant,NA,LE,7,2900,mm 239
+Shadow Dancer,Medium,Humanoid,elf,N,7,2900,mtf 225
+Shield Guardian,Large,Construct,NA,Unaligned,7,2900,mm 271
+Stone Giant,Huge,Giant,NA,N,7,2900,mm 156
+Venom Troll,Large,Giant,NA,CE,7,2900,mtf 245
+Warlock of the Fiend,Medium,Humanoid,NA,Any,7,2900,vgm 219
+Water Elemental Myrmidon,Medium,Elemental,NA,N,7,2900,mtf 203
+Young Black Dragon,Large,Dragon,NA,CE,7,2900,mm 88
+Young Copper Dragon,Large,Dragon,NA,CG,7,2900,mm 111
+Yuan-ti Abomination,Large,Monstrosity,"shapechanger, yuan-ti",NE,7,2900,mm 308
+Assassin,Medium,Humanoid,NA,Any non-good,8,3900,mm 343
+Blackguard,Medium,Humanoid,NA,Any non-good,8,3900,vgm 211
+Canoloth,Medium,Fiend,yugoloth,NE,8,3900,mtf 247
+Chain Devil,Medium,Fiend,devil,LE,8,3900,mm 72
+Cloaker,Large,Aberration,NA,CN,8,3900,mm 41
+Corpse Flower,Large,Plant,NA,CE,8,3900,mtf 127
+Deathlock Mastermind,Medium,Undead,NA,NE,8,3900,mtf 129
+Diviner,Medium,Humanoid,NA,Any,8,3900,vgm 213
+Drow Priestess of Lolth,Medium,Humanoid,elf,NE,8,3900,mm 129
+Fomorian,Huge,Giant,NA,CE,8,3900,mm 136
+Frost Giant,Huge,Giant,NA,NE,8,3900,mm 155
+Githyanki Knight,Medium,Humanoid,gith,LE,8,3900,mm 160
+Green Slaad,Large,Aberration,shapechanger,CN,8,3900,mm 277
+Hezrou,Large,Fiend,demon,CE,8,3900,mm 60
+Howler,Large,Fiend,NA,CE,8,3900,mtf 210
+Hydra,Huge,Monstrosity,NA,Unaligned,8,3900,mm 190
+Mind Flayer Arcanist,Medium,Aberration,NA,LE,8,3900,mm 222
+Shoosuva,Large,Fiend,demon,CE,8,3900,vgm 137
+Spirit Naga,Large,Monstrosity,NA,CE,8,3900,mm 234
+Sword Wraith Commander,Medium,Undead,NA,LE,8,3900,mtf 241
+Tyrannosaurus Rex,Huge,Beast,NA,Unaligned,8,3900,mm 80
+Young Bronze Dragon,Large,Dragon,NA,LG,8,3900,mm 108
+Young Green Dragon,Large,Dragon,NA,LE,8,3900,mm 94
+Abjurer,Medium,Humanoid,NA,Any,9,5000,vgm 209
+Abominable Yeti,Huge,Monstrosity,NA,CE,9,5000,mm 306
+Bone Devil,Large,Fiend,devil,LE,9,5000,mm 71
+Champion,Medium,Humanoid,NA,Any,9,5000,vgm 212
+Clay Golem,Large,Construct,NA,Unaligned,9,5000,mm 168
+Cloud Giant,Huge,Giant,NA,NG or NE,9,5000,mm 154
+Drow House Captain,Medium,Humanoid,elf,NE,9,5000,mtf 184
+Evoker,Medium,Humanoid,NA,Any,9,5000,vgm 214
+Fire Giant,Huge,Giant,NA,LE,9,5000,mm 154
+Flind,Medium,Humanoid,gnoll,CE,9,5000,vgm 153
+Frost Salamander,Huge,Elemental,NA,Unaligned,9,5000,mtf 223
+Glabrezu,Large,Fiend,demon,CE,9,5000,mm 58
+Gloom Weaver,Medium,Humanoid,elf,N,9,5000,mtf 224
+Gray Slaad,Medium,Aberration,shapechanger,CN,9,5000,mm 277
+Hydroloth,Medium,Fiend,yugoloth,NE,9,5000,mtf 249
+Lonely Sorrowsworn,Medium,Monstrosity,NA,NE,9,5000,mtf 232
+Necromancer,Medium,Humanoid,NA,Any,9,5000,vgm 217
+Nycaloth,Large,Fiend,yugoloth,NE,9,5000,mm 314
+Rot Troll,Large,Giant,NA,CE,9,5000,mtf 244
+Treant,Huge,Plant,NA,CG,9,5000,mm 289
+Ulitharid,Large,Aberration,NA,LE,9,5000,vgm 175
+War Priest,Medium,Humanoid,NA,Any,9,5000,vgm 218
+Young Blue Dragon,Large,Dragon,NA,LE,9,5000,mm 91
+Young Silver Dragon,Large,Dragon,NA,LG,9,5000,mm 118
+Aboleth,Large,Aberration,NA,LE,10,5900,mm 13
+Alhoon,Medium,Undead,NA,Any evil,10,5900,vgm 172
+Autumn Eladrin,Medium,Fey,elf,CN,10,5900,mtf 195
+Death Kiss,Large,Aberration,NA,NE,10,5900,vgm 124
+Death Slaad,Medium,Aberration,shapechanger,CE,10,5900,mm 278
+Deva,Medium,Celestial,NA,LG,10,5900,mm 16
+Elder Oblex,Huge,Ooze,NA,LE,10,5900,mtf 219
+Froghemoth,Huge,Monstrosity,NA,Unaligned,10,5900,vgm 145
+Githyanki Gish,Medium,Humanoid,gith,LE,10,5900,mtf 205
+Githzerai Enlightened,Medium,Humanoid,gith,LN,10,5900,mtf 208
+Guardian Naga,Large,Monstrosity,NA,LG,10,5900,mm 234
+Orthon,Large,Fiend,devil,LE,10,5900,mtf 169
+Spring Eladrin,Medium,Fey,elf,CN,10,5900,mtf 196
+Star Spawn Hulk,Large,Aberration,NA,CE,10,5900,mtf 234
+Stone Giant Dreamwalker,Huge,Giant,stone giant,CN,10,5900,vgm 150
+Stone Golem,Large,Construct,NA,Unaligned,10,5900,mm 170
+Summer Eladrin,Medium,Fey,elf,CN,10,5900,mtf 196
+Winter Eladrin,Medium,Fey,elf,CN,10,5900,mtf 197
+Yochlol,Medium,Fiend,"demon, shapechanger",CE,10,5900,mm 65
+Young Gold Dragon,Large,Dragon,NA,LG,10,5900,mm 115
+Young Red Dragon,Large,Dragon,NA,CE,10,5900,mm 98
+Alkilith,Medium,Fiend,demon,CE,11,7200,mtf 130
+Balhannoth,Large,Aberration,NA,CE,11,7200,mtf 118
+Behir,Huge,Monstrosity,NA,NE,11,7200,mm 25
+Cloud Giant Smiling One,Huge,Giant,cloud giant,CN,11,7200,vgm 146
+Dao,Large,Elemental,NA,NE,11,7200,mm 143
+Djinni,Large,Elemental,NA,CG,11,7200,mm 144
+Drow Shadowblade,Medium,Humanoid,elf,NE,11,7200,mtf 187
+Efreeti,Large,Elemental,NA,LE,11,7200,mm 145
+Gynosphinx,Large,Monstrosity,NA,LN,11,7200,mm 282
+Horned Devil,Large,Fiend,devil,LE,11,7200,mm 74
+Hungry Sorrowsworn,Medium,Monstrosity,NA,NE,11,7200,mtf 232
+Marid,Large,Elemental,NA,CN,11,7200,mm 146
+Morkoth,Medium,Aberration,NA,CE,11,7200,vgm 178
+Remorhaz,Huge,Monstrosity,NA,Unaligned,11,7200,mm 258
+Roc,Gargantuan,Monstrosity,NA,Unaligned,11,7200,mm 260
+Soul Monger,Medium,Humanoid,elf,N,11,7200,mtf 226
+Spirit Troll,Large,Giant,NA,CE,11,7200,mtf 244
+Yagnoloth,Large,Fiend,yugoloth,NE,11,7200,mtf 252
+Arcanaloth,Medium,Fiend,yugoloth,NE,12,8400,mm 313
+Archdruid,Medium,Humanoid,NA,Any,12,8400,vgm 210
+Archmage,Medium,Humanoid,NA,Any,12,8400,mm 342
+Boneclaw,Large,Undead,NA,CE,12,8400,mtf 121
+Duergar Despot,Medium,Humanoid,dwarf,LE,12,8400,mtf 188
+Eidolon,Medium,Undead,NA,Any,12,8400,mtf 194
+Erinyes,Medium,Fiend,devil,LE,12,8400,mm 73
+Frost Giant Everlasting One,Huge,Giant,frost giant,CE,12,8400,vgm 148
+Githyanki Kith'rak,Medium,Humanoid,gith,LE,12,8400,mtf 205
+Gray Render,Large,Monstrosity,NA,CN,12,8400,mtf 209
+Ki-rin,Huge,Celestial,NA,LG,12,8400,vgm 163
+Morkoth (in lair),Medium,Aberration,NA,CE,12,8400,vgm 178
+Oinoloth,Medium,Fiend,yugoloth,NE,12,8400,mtf 251
+Warlord,Medium,Humanoid,NA,Any,12,8400,vgm 220
+Yuan-ti Anathema,Huge,Monstrosity,"shapechanger, yuan-ti",NE,12,8400,vgm 202
+Adult Brass Dragon,Huge,Dragon,NA,CG,13,10000,mm 105
+Adult White Dragon,Huge,Dragon,NA,CE,13,10000,mm 101
+Angry Sorrowsworn,Medium,Monstrosity,NA,NE,13,10000,mtf 231
+Beholder,Large,Aberration,NA,LE,13,10000,mm 28
+Devourer,Large,Fiend,NA,CE,13,10000,vgm 138
+Dire Troll,Huge,Giant,NA,CE,13,10000,mtf 243
+Drow Arachnomancer,Medium,Humanoid,elf,CE,13,10000,mtf 182
+Nalfeshnee,Large,Fiend,demon,CE,13,10000,mm 62
+Narzugon,Medium,Fiend,devil,LE,13,10000,mtf 167
+Neothelid,Gargantuan,Aberration,NA,CE,13,10000,vgm 181
+Rakshasa,Medium,Fiend,NA,LE,13,10000,mm 257
+Star Spawn Seer,Medium,Aberration,NA,NE,13,10000,mtf 236
+Storm Giant,Huge,Giant,NA,CG,13,10000,mm 156
+Ultroloth,Medium,Fiend,yugoloth,NE,13,10000,mm 314
+Vampire,Medium,Undead,shapechanger,LE,13,10000,mm 297
+Wastrilith,Large,Fiend,demon,CE,13,10000,mtf 139
+Young Red Shadow Dragon,Large,Dragon,NA,CE,13,10000,mm 85
+Adult Black Dragon,Huge,Dragon,NA,CE,14,11500,mm 88
+Adult Copper Dragon,Huge,Dragon,NA,CG,14,11500,mm 111
+Beholder (in lair),Large,Aberration,NA,LE,14,11500,mm 28
+Cadaver Collector,Large,Construct,NA,LE,14,11500,mtf 122
+Death Tyrant,Large,Undead,NA,LE,14,11500,mm 29
+Drow Inquisitor,Medium,Humanoid,elf,NE,14,11500,mtf 184
+Elder Brain,Large,Aberration,NA,LE,14,11500,vgm 174
+Fire Giant Dreadnought,Huge,Giant,fire giant,LE,14,11500,vgm 147
+Githyanki Supreme Commander,Medium,Humanoid,gith,LE,14,11500,mtf 206
+Ice Devil,Large,Fiend,devil,LE,14,11500,mm 75
+Retriever,Large,Construct,NA,LE,14,11500,mtf 222
+Adult Bronze Dragon,Huge,Dragon,NA,LG,15,13000,mm 108
+Adult Green Dragon,Huge,Dragon,NA,LE,15,13000,mm 94
+Death Tyrant (in lair),Large,Undead,NA,LE,15,13000,mm 29
+Green Abishai,Medium,Fiend,devil,LE,15,13000,mtf 162
+Mummy Lord,Medium,Undead,NA,LE,15,13000,mm 229
+Nabassu,Medium,Fiend,demon,CE,15,13000,mtf 135
+Purple Worm,Gargantuan,Monstrosity,NA,Unaligned,15,13000,mm 255
+Skull Lord,Medium,Undead,NA,LE,15,13000,mtf 230
+Vampire (spellcaster),Medium,Undead,shapechanger,LE,15,13000,mm 297
+Vampire (warrior),Medium,Undead,shapechanger,LE,15,13000,mm 297
+Adult Blue Dragon,Huge,Dragon,NA,LE,16,15000,mm 91
+Adult Silver Dragon,Huge,Dragon,NA,LG,16,15000,mm 117
+Githzerai Anarch,Medium,Humanoid,gith,LN,16,15000,mtf 207
+Hellfire Engine,Huge,Construct,NA,LE,16,15000,mtf 165
+Iron Golem,Large,Construct,NA,Unaligned,16,15000,mm 170
+Marilith,Large,Fiend,demon,CE,16,15000,mm 61
+Mummy Lord (in lair),Medium,Undead,NA,LE,16,15000,mm 229
+Phoenix,Gargantuan,Elemental,NA,N,16,15000,mtf 199
+Planetar,Large,Celestial,NA,LG,16,15000,mm 17
+Star Spawn Larva Mage,Medium,Aberration,NA,CE,16,15000,mtf 235
+Steel Predator,Large,Construct,NA,LE,16,15000,mtf 239
+Storm Giant Quintessent,Huge,Giant,storm giant,CG,16,15000,vgm 151
+Adult Blue Dracolich,Huge,Undead,NA,LE,17,18000,mm 84
+Adult Gold Dragon,Huge,Dragon,NA,LG,17,18000,mm 114
+Adult Red Dragon,Huge,Dragon,NA,CE,17,18000,mm 98
+Androsphinx,Large,Monstrosity,NA,LN,17,18000,mm 281
+Blue Abishai,Medium,Fiend,devil,LE,17,18000,mtf 161
+Death Knight,Medium,Undead,NA,CE,17,18000,mm 47
+Dragon Turtle,Gargantuan,Dragon,NA,N,17,18000,mm 119
+Goristro,Huge,Fiend,demon,CE,17,18000,mm 59
+Nagpa,Medium,Humanoid,nagpa,NE,17,18000,mtf 215
+Amnizu,Medium,Fiend,devil,LE,18,20000,mtf 164
+Demilich,Tiny,Undead,NA,NE,18,20000,mm 48
+Drow Favored Consort,Medium,Humanoid,elf,NE,18,20000,mtf 183
+Sibriex,Huge,Fiend,demon,CE,18,20000,mtf 137
+Balor,Huge,Fiend,demon,CE,19,22000,mm 55
+Red Abishai,Medium,Fiend,devil,LE,19,22000,mtf 162
+Demilich (in lair),Tiny,Undead,NA,NE,20,24500,mm 48
+Ancient Brass Dragon,Gargantuan,Dragon,NA,CG,20,25000,mm 104
+Ancient White Dragon,Gargantuan,Dragon,NA,CE,20,25000,mm 100
+Drow Matron Mother,Medium,Humanoid,elf,NE,20,25000,mtf 186
+Leviathan,Gargantuan,Elemental,NA,N,20,25000,mtf 198
+Nightwalker,Huge,Undead,NA,CE,20,25000,mtf 216
+Pit Fiend,Large,Fiend,devil,LE,20,25000,mm 77
+Ancient Black Dragon,Gargantuan,Dragon,NA,CE,21,33000,mm 87
+Ancient Copper Dragon,Gargantuan,Dragon,NA,CG,21,33000,mm 110
+Astral Dreadnought,Gargantuan,Monstrosity,titan,Unaligned,21,33000,mtf 117
+Lich,Medium,Undead,NA,Any evil,21,33000,mm 202
+Molydeus,Huge,Fiend,demon,CE,21,33000,mtf 134
+Solar,Large,Celestial,NA,LG,21,33000,mm 18
+Ancient Bronze Dragon,Gargantuan,Dragon,NA,LG,22,41000,mm 107
+Ancient Green Dragon,Gargantuan,Dragon,NA,LE,22,41000,mm 93
+Lich (in lair),Medium,Undead,NA,Any evil,22,41000,mm 202
+Mind Flayer Lich,Medium,Undead,NA,Any evil,22,41000,vgm 172
+Zaratan,Gargantuan,Elemental,NA,N,22,41000,mtf 201
+Ancient Blue Dragon,Gargantuan,Dragon,NA,LE,23,50000,mm 90
+Ancient Silver Dragon,Gargantuan,Dragon,NA,LG,23,50000,mm 116
+Elder Tempest,Gargantuan,Elemental,NA,N,23,50000,mtf 200
+Empyrean,Huge,Celestial,titan,CG or NE,23,50000,mm 130
+Kraken,Gargantuan,Monstrosity,titan,CE,23,50000,mm 197
+Ancient Gold Dragon,Gargantuan,Dragon,NA,LG,24,62000,mm 113
+Ancient Red Dragon,Gargantuan,Dragon,NA,CE,24,62000,mm 97
+Marut,Large,Construct,inevitable,LN,25,75000,mtf 213
+Tarrasque,Gargantuan,Monstrosity,titan,Unaligned,30,155000,mm 286
+Nihileth,,,,,,,TOB
+Nihilethic Zombie,,,,,,,TOB
+Abominable Beauty,,,,,,,TOB
+Accursed Defiler,,,,,,,TOB
+Ala,,,,,,,TOB
+Algorith,,,,,,,TOB
+Alseid,,,,,,,TOB
+Alseid Grovekeeper,,,,,,,TOB
+Amphiptere,,,,,,,TOB
+Andrenjinyi,,,,,,,TOB
+Angatra,,,,,,,TOB
+"Angel, Chained",,,,,,,TOB
+"Angel, Fidele",,,,,,,TOB
+Angler Worm,,,,,,,TOB
+"Ant, Giant",,,,,,,TOB
+Giant Ant Queen,,,,,,,TOB
+Anubian,,,,,,,TOB
+Arboreal Grappler,,,,,,,TOB
+Aridni,,,,,,,TOB
+Asanbosam,,,,,,,TOB
+Azza Gremlin,,,,,,,TOB
+Bright Day,,,,,,,TOB
+Red Sun,,,,,,,TOB
+Black Night,,,,,,,TOB
+Bagiennik,,,,,,,TOB
+Bastet Temple Cat,,,,,,,TOB
+Bearfolk,,,,,,,TOB
+Behtu,,,,,,,TOB
+Beli,,,,,,,TOB
+Bereginyas,,,,,,,TOB
+Blemmyes,,,,,,,TOB
+Boloti,,,,,,,TOB
+Bone Collective,,,,,,,TOB
+Bone Crab,,,,,,,TOB
+Bone Swarm,,,,,,,TOB
+Avatar of Boreas,,,,,,,TOB
+Bouda,,,,,,,TOB
+Broodiken,,,,,,,TOB
+Bucca,,,,,,,TOB
+Bukavac,,,,,,,TOB
+Buraq,,,,,,,TOB
+Burrowling,,,,,,,TOB
+Cactid,,,,,,,TOB
+Cambium,,,,,,,TOB
+Carrion Beetle,,,,,,,TOB
+Cavelight Moss,,,,,,,TOB
+Chelicerae,,,,,,,TOB
+Chernomoi,,,,,,,TOB
+Child of the Briar,,,,,,,TOB
+Chronalmental,,,,,,,TOB
+Cikavak,,,,,,,TOB
+Clockwork Abomination,,,,,,,TOB
+Clockwork Beetle,,,,,,,TOB
+Clockwork Beetle Swarm,,,,,,,TOB
+Clockwork Hound,,,,,,,TOB
+Clockwork Huntsman,,,,,,,TOB
+Clockwork Myrmidon,,,,,,,TOB
+Clockwork Watchman,,,,,,,TOB
+Clockwork Weaving Spider,,,,,,,TOB
+Clurichaun,,,,,,,TOB
+Cobbleswarm,,,,,,,TOB
+Corpse Mound,,,,,,,TOB
+Dau,,,,,,,TOB
+Death Butterfly Swarm,,,,,,,TOB
+Greater Death Butterfly Swarm,,,,,,,TOB
+Deathwisp,,,,,,,TOB
+Deep One,,,,,,,TOB
+Deep One Hybrid Priest,,,,,,,TOB
+Deep One Archimandrite,,,,,,,TOB
+"Demon, Apau Perape",,,,,,,TOB
+"Demon, Berstuc",,,,,,,TOB
+"Demon, Kishi",,,,,,,TOB
+"Demon, Malakbel",,,,,,,TOB
+"Demon, Psoglav",,,,,,,TOB
+"Demon, Rubezahl",,,,,,,TOB
+AkyishigalLord of Cockroaches,,,,,,,TOB
+Spawn of Akyishigal,,,,,,,TOB
+"Alquam, Lord of Night",,,,,,,TOB
+"Camazotz, Lord of Bats and Fire",,,,,,,TOB
+Skin Bat,,,,,,,TOB
+"Mechuiti, Lord of Apes",,,,,,,TOB
+"Qorgeth, Lord of the Devouring Worm",,,,,,,TOB
+Derro Fetal Savant,,,,,,,TOB
+Derro Shadow Antipaladin,,,,,,,TOB
+"Arbeyach, Prince of Swarms",,,,,,,TOB
+Spawn of Arbeyach,,,,,,,TOB
+Ia’Affrat the Insatiable,,,,,,,TOB
+"Mammon, Archduke of Greed",,,,,,,TOB
+"Totivillus, Scribe of Hell",,,,,,,TOB
+Automata Devil,,,,,,,TOB
+Chort Devil,,,,,,,TOB
+Crystalline Devil,,,,,,,TOB
+Gilded Devil,,,,,,,TOB
+Ink Devil,,,,,,,TOB
+Koralk,,,,,,,TOB
+Harvester Devil,,,,,,,TOB
+Lunar Devil,,,,,,,TOB
+Orobas Devil,,,,,,,TOB
+Salt Devil,,,,,,,TOB
+"Dinosaur, Mbielu",,,,,,,TOB
+"Dinosaur, Ngobou",,,,,,,TOB
+"Dinosaur, Spinosaurus",,,,,,,TOB
+"Dinosaur, Young Spinosaurus",,,,,,,TOB
+Dipsa,,,,,,,TOB
+Dissimortuum,,,,,,,TOB
+Dogmole,,,,,,,TOB
+Dogmole Juggernaut,,,,,,,TOB
+Domovoi,,,,,,,TOB
+Doppelrat,,,,,,,TOB
+Dorreq,,,,,,,TOB
+Adult Cave Dragon,,,,,,,TOB
+Young Cave Dragon,,,,,,,TOB
+Cave Dragon Wyrmling,,,,,,,TOB
+Ancient Flame Dragon,,,,,,,TOB
+Adult Flame Dragon,,,,,,,TOB
+Young Flame Dragon,,,,,,,TOB
+Flame Dragon Wyrmling,,,,,,,TOB
+Ancient Mithral Dragon,,,,,,,TOB
+Adult Mithral Dragon,,,,,,,TOB
+Young Mithral Dragon,,,,,,,TOB
+Mithral Dragon Wyrmling,,,,,,,TOB
+Ancient Sea Dragon,,,,,,,TOB
+Adult Sea Dragon,,,,,,,TOB
+Young Sea Dragon,,,,,,,TOB
+Sea Dragon Wyrmling,,,,,,,TOB
+Ancient Void Dragon,,,,,,,TOB
+Adult Void Dragon,,,,,,,TOB
+Young Void Dragon,,,,,,,TOB
+Void Dragon Wyrmling,,,,,,,TOB
+Ancient Wind Dragon,,,,,,,TOB
+Adult Wind Dragon,,,,,,,TOB
+Young Wind Dragon,,,,,,,TOB
+Wind Dragon Wyrmling,,,,,,,TOB
+Dragon Eel,,,,,,,TOB
+Dragonleaf Tree,,,,,,,TOB
+Alehouse Drake,,,,,,,TOB
+Ash Drake,,,,,,,TOB
+Coral Drake,,,,,,,TOB
+Crimson Drake,,,,,,,TOB
+Deep Drake,,,,,,,TOB
+Elder Shadow Drake,,,,,,,TOB
+Paper Drake,,,,,,,TOB
+Rust Drake,,,,,,,TOB
+Star Drake,,,,,,,TOB
+Drakon,,,,,,,TOB
+Dream Eater,,,,,,,TOB
+Drowned Maiden,,,,,,,TOB
+"Dryad, Duskthorn",,,,,,,TOB
+Dullahan,,,,,,,TOB
+Dune Mimic,,,,,,,TOB
+Eala,,,,,,,TOB
+Eater of Dust,,,,,,,TOB
+Yakat-Shi,,,,,,,TOB
+Edimmu,,,,,,,TOB
+Eel Hound,,,,,,,TOB
+Einherjar,,,,,,,TOB
+Eleinomae,,,,,,,TOB
+Elemental Locus,,,,,,,TOB
+Shadow Fey,,,,,,,TOB
+Shadow Fey Duelist,,,,,,,TOB
+Shadow Fey Enchantress,,,,,,,TOB
+Shadow Fey Forest Hunter,,,,,,,TOB
+Shadow Fey Guardian,,,,,,,TOB
+Emerald Eye,,,,,,,TOB
+Empty Cloak,,,,,,,TOB
+Eonic Drifter,,,,,,,TOB
+Erina Scrounger,,,,,,,TOB
+Erina Defender,,,,,,,TOB
+Far Darrig,,,,,,,TOB
+Fate Eater,,,,,,,TOB
+Fear Smith,,,,,,,TOB
+Fellforged,,,,,,,TOB
+Fext,,,,,,,TOB
+Bear King,,,,,,,TOB
+Lord of the Hunt,,,,,,,TOB
+Moonlit King,,,,,,,TOB
+Queen of Night and Magic,,,,,,,TOB
+Queen of Witches,,,,,,,TOB
+River King,,,,,,,TOB
+Snow Queen,,,,,,,TOB
+Feyward Tree,,,,,,,TOB
+Firebird,,,,,,,TOB
+Firegeist,,,,,,,TOB
+Flutterflesh,,,,,,,TOB
+Folk of Leng,,,,,,,TOB
+Forest Marauder,,,,,,,TOB
+Fraughashar,,,,,,,TOB
+Frostveil,,,,,,,TOB
+Garroter Crab,,,,,,,TOB
+Gbahali,,,,,,,TOB
+Gearforged Templar,,,,,,,TOB
+Al-Aeshma Genie,,,,,,,TOB
+Gerridae,,,,,,,TOB
+Beggar Ghoul,,,,,,,TOB
+Bonepowder Ghoul,,,,,,,TOB
+Darakhul Ghoul,,,,,,,TOB
+Emperor Ghoul,,,,,,,TOB
+Imperial Ghoul,,,,,,,TOB
+Iron Ghoul,,,,,,,TOB
+Desert Giant,,,,,,,TOB
+Flab Giant,,,,,,,TOB
+Hraesvelgr Giant,,,,,,,TOB
+Jotun Giant,,,,,,,TOB
+Thursir Giant,,,,,,,TOB
+Glass Gator,,,,,,,TOB
+Gnarljak,,,,,,,TOB
+Havoc Runner,,,,,,,TOB
+Goat-Man,,,,,,,TOB
+Dust Goblin,,,,,,,TOB
+Eye Golem,,,,,,,TOB
+Hoard Golem,,,,,,,TOB
+Salt Golem,,,,,,,TOB
+Smaragdine Golem,,,,,,,TOB
+Steam Golem,,,,,,,TOB
+Gray Thirster,,,,,,,TOB
+"Gremlin, Rum",,,,,,,TOB
+Grim Jester,,,,,,,TOB
+Gug,,,,,,,TOB
+Blood Hag,,,,,,,TOB
+Mirror Hag,,,,,,,TOB
+Red Hag,,,,,,,TOB
+Sand Hag,,,,,,,TOB
+Owl Hag,,,,,,,TOB
+Haugbui,,,,,,,TOB
+Herald of Blood,,,,,,,TOB
+Herald of Darkness,,,,,,,TOB
+Horakh,,,,,,,TOB
+Hound of the Night,,,,,,,TOB
+Hulking Whelp,,,,,,,TOB
+Hundun,,,,,,,TOB
+Ice Maiden,,,,,,,TOB
+Idolic Deity,,,,,,,TOB
+Imy-ut Ushabti,,,,,,,TOB
+Isonade,,,,,,,TOB
+Jaculus,,,,,,,TOB
+Kalke,,,,,,,TOB
+Kikimora,,,,,,,TOB
+Kobold Alchemist,,,,,,,TOB
+Kobold Chieftain,,,,,,,TOB
+Kobold Trapsmith,,,,,,,TOB
+Kongamato,,,,,,,TOB
+Koschei,,,,,,,TOB
+Kot Bayun,,,,,,,TOB
+Krake Spawn,,,,,,,TOB
+Lantern Dragonette,,,,,,,TOB
+Lemurfolk,,,,,,,TOB
+Lemurfolk Greyfur,,,,,,,TOB
+Leshy,,,,,,,TOB
+Library Automaton,,,,,,,TOB
+Lich Hound,,,,,,,TOB
+Likho,,,,,,,TOB
+Lindwurm,,,,,,,TOB
+Liosalfar,,,,,,,TOB
+Living Wick,,,,,,,TOB
+Lorelei,,,,,,,TOB
+Loxoda,,,,,,,TOB
+Mahoru,,,,,,,TOB
+Mallqui,,,,,,,TOB
+Malphas,,,,,,,TOB
+Mamura,,,,,,,TOB
+Mask Wight,,,,,,,TOB
+Mavka,,,,,,,TOB
+Mi-Go,,,,,,,TOB
+Millitaur,,,,,,,TOB
+Map Mimic,,,,,,,TOB
+Mindrot Thrall,,,,,,,TOB
+Mirager,,,,,,,TOB
+Miremal,,,,,,,TOB
+Mngwa,,,,,,,TOB
+Monolith Champion,,,,,,,TOB
+Monolith Footman,,,,,,,TOB
+Mordant Snare,,,,,,,TOB
+Morphoi,,,,,,,TOB
+Moss Lurker,,,,,,,TOB
+Venomous Mummy,,,,,,,TOB
+Deathcap,,,,,,,TOB
+Myling,,,,,,,TOB
+Naina,,,,,,,TOB
+Nichny,,,,,,,TOB
+Nightgarm,,,,,,,TOB
+Nkosi,,,,,,,TOB
+Nkosi Pridelord,,,,,,,TOB
+War Ostrich,,,,,,,TOB
+Noctiny,,,,,,,TOB
+Oculo Swarm,,,,,,,TOB
+Oozasis,,,,,,,TOB
+"Ooze, Corrupting",,,,,,,TOB
+Ostinato,,,,,,,TOB
+Pombero,,,,,,,TOB
+Possessed Pillar,,,,,,,TOB
+Putrid Haunt,,,,,,,TOB
+Qwyllion,,,,,,,TOB
+Ramag,,,,,,,TOB
+Rat King,,,,,,,TOB
+Ratatosk,,,,,,,TOB
+Ratfolk,,,,,,,TOB
+Ratfolk Rogue,,,,,,,TOB
+Ravenala,,,,,,,TOB
+Ravenfolk Doom Croaker,,,,,,,TOB
+Ravenfolk Scout,,,,,,,TOB
+Ravenfolk Warrior,,,,,,,TOB
+Redcap,,,,,,,TOB
+Rift Swine,,,,,,,TOB
+"Rime Worm, Adult",,,,,,,TOB
+Rime Worm Grub,,,,,,,TOB
+Risen Reaver,,,,,,,TOB
+Roachling Skirmisher,,,,,,,TOB
+Roachling Lord,,,,,,,TOB
+Rotting Wind,,,,,,,TOB
+Rusalka,,,,,,,TOB
+Sand Silhouette,,,,,,,TOB
+Sandman,,,,,,,TOB
+Sandwyrm,,,,,,,TOB
+Sap Demon,,,,,,,TOB
+Sarcophagus Slime,,,,,,,TOB
+Sathaq Worm,,,,,,,TOB
+Savager,,,,,,,TOB
+Scheznyki,,,,,,,TOB
+"Scorpion, Night",,,,,,,TOB
+"Scorpion, Stygian Fat-Tailed",,,,,,,TOB
+Selang,,,,,,,TOB
+Serpopard,,,,,,,TOB
+Shabti,,,,,,,TOB
+Shadow Beast,,,,,,,TOB
+Shellycoat,,,,,,,TOB
+Shoggoth,,,,,,,TOB
+Shroud,,,,,,,TOB
+Skein Witch,,,,,,,TOB
+"Skeleton, Sharkjaw",,,,,,,TOB
+"Skeleton, Vine Troll",,,,,,,TOB
+Skitterhaunt,,,,,,,TOB
+Slow Storm,,,,,,,TOB
+"Snake, Swamp Adder",,,,,,,TOB
+"Snake, Zanskaran Viper",,,,,,,TOB
+Son of Fenris,,,,,,,TOB
+Soul Eater,,,,,,,TOB
+Spark,,,,,,,TOB
+Spectral Guardian,,,,,,,TOB
+"Sphinx, Gypsosphinx",,,,,,,TOB
+"Spider, Ghostwalk",,,,,,,TOB
+"Spider, J’ba Fofi",,,,,,,TOB
+"Spider, Red-Banded Line",,,,,,,TOB
+"Spider, Sand",,,,,,,TOB
+Spider of Leng,,,,,,,TOB
+Spider Thief,,,,,,,TOB
+Spire Walker,,,,,,,TOB
+Star-Spawn of Cthulhu,,,,,,,TOB
+Stryx,,,,,,,TOB
+Stuhac,,,,,,,TOB
+Subek,,,,,,,TOB
+Suturefly,,,,,,,TOB
+"Swarm, Fire Dancers",,,,,,,TOB
+"Swarm, Manabane Scarabs",,,,,,,TOB
+"Swarm, Prismatic Beetles",,,,,,,TOB
+"Swarm, Sluagh",,,,,,,TOB
+"Swarm, Wolf Spirits",,,,,,,TOB
+Temple Dog,,,,,,,TOB
+Theullai,,,,,,,TOB
+"Titan, Ancient",,,,,,,TOB
+"Titan, Degenerate",,,,,,,TOB
+Titanoboa,,,,,,,TOB
+Tophet,,,,,,,TOB
+Tosculi Drone,,,,,,,TOB
+Tosculi Elite Bow Raider,,,,,,,TOB
+Tosculi Hive Queen,,,,,,,TOB
+Tosculi Warrior,,,,,,,TOB
+Treacle,,,,,,,TOB
+"Treant, Weeping",,,,,,,TOB
+"Troll, Lake",,,,,,,TOB
+Trollkin Reaver,,,,,,,TOB
+Tusked Skyfish,,,,,,,TOB
+Uraeus,,,,,,,TOB
+Urochar,,,,,,,TOB
+Ushabti,,,,,,,TOB
+Vaettir,,,,,,,TOB
+Valkyrie,,,,,,,TOB
+"Vampire, Umbral",,,,,,,TOB
+Vapor Lynx,,,,,,,TOB
+Vesiculosa,,,,,,,TOB
+Vila,,,,,,,TOB
+Vile Barber,,,,,,,TOB
+Siabhra,,,,,,,TOB
+Vine Lord,,,,,,,TOB
+Tendril Puppet,,,,,,,TOB
+Voidling,,,,,,,TOB
+Wampus Cat,,,,,,,TOB
+Water Leaper,,,,,,,TOB
+Wharfling,,,,,,,TOB
+Wharfling Swarm,,,,,,,TOB
+White Ape,,,,,,,TOB
+Witchlight,,,,,,,TOB
+Wormhearted Suffragan,,,,,,,TOB
+Xanka,,,,,,,TOB
+Xhkarsh,,,,,,,TOB
+Ychen Bannog,,,,,,,TOB
+Zaratan,,,,,,,TOB
+Zimwi,,,,,,,TOB
+Zmey,,,,,,,TOB
+Name,,,,,,,TOB2
+A-mi-kuk,,,,,,,TOB2
+Aalpamac,,,,,,,TOB2
+Ahu-nixta Cataphract,,,,,,,TOB2
+Ahu-Nixta Drudge,,,,,,,TOB2
+Akaasit,,,,,,,TOB2
+Akhlut,,,,,,,TOB2
+Alchemical Skunk,,,,,,,TOB2
+Alligator,,,,,,,TOB2
+Alligator Turtle,,,,,,,TOB2
+Alpha Fish,,,,,,,TOB2
+Angel of Judgment,,,,,,,TOB2
+Fallen Angel,,,,,,,TOB2
+Archon,,,,,,,TOB2
+Uridimmu,,,,,,,TOB2
+Angelic Enforcer,,,,,,,TOB2
+Queen of Scorpions,,,,,,,TOB2
+Toad King,,,,,,,TOB2
+Aniwye,,,,,,,TOB2
+Anzu,,,,,,,TOB2
+Apaxrusl,,,,,,,TOB2
+Arachnocrat,,,,,,,TOB2
+Archdruid,,,,,,,TOB2
+Clockwork Archon,,,,,,,TOB2
+Ash Phoenix,,,,,,,TOB2
+Ashen Custodian,,,,,,,TOB2
+Astral Devourer,,,,,,,TOB2
+Astri,,,,,,,TOB2
+Attercroppe,,,,,,,TOB2
+August Rooster,,,,,,,TOB2
+Aurora Horribilis,,,,,,,TOB2
+Avalanche Screamer,,,,,,,TOB2
+Avatar of Chaos,,,,,,,TOB2
+Avatar of Forests,,,,,,,TOB2
+Avatar of Hate,,,,,,,TOB2
+Avatar of Nature,,,,,,,TOB2
+Aviere,,,,,,,TOB2
+Avulzor,,,,,,,TOB2
+Howler Baboon,,,,,,,TOB2
+Barometz,,,,,,,TOB2
+Bombadier Beetle,,,,,,,TOB2
+Snow Beetle,,,,,,,TOB2
+Lantern Beetle,,,,,,,TOB2
+Sniffer Beetle,,,,,,,TOB2
+Befouled Weird,,,,,,,TOB2
+Bilby,,,,,,,TOB2
+Black Crier,,,,,,,TOB2
+Bleakheart,,,,,,,TOB2
+Bloodsapper,,,,,,,TOB2
+Bloodstone Sentinel,,,,,,,TOB2
+Bloody Bones,,,,,,,TOB2
+Bloom Hydra,,,,,,,TOB2
+Bone Colossus,,,,,,,TOB2
+Boneshard Wraith,,,,,,,TOB2
+Bonespitter,,,,,,,TOB2
+Boomer,,,,,,,TOB2
+Boreal Dragon,,,,,,,TOB2
+Boreas’ Chosen,,,,,,,TOB2
+Brachyura Shambler,,,,,,,TOB2
+Broodmother of Leng,,,,,,,TOB2
+Bulbous Violet,,,,,,,TOB2
+Cadaver Sprite,,,,,,,TOB2
+Carnivorous Ship,,,,,,,TOB2
+Carnivorous Sod,,,,,,,TOB2
+Catscratch,,,,,,,TOB2
+Chameleon Hydra,,,,,,,TOB2
+Chatterlome,,,,,,,TOB2
+Cherufe,,,,,,,TOB2
+Chill Haunt,,,,,,,TOB2
+Chimeric Phantom,,,,,,,TOB2
+Chronomatic Enhancer,,,,,,,TOB2
+Compsognathus,,,,,,,TOB2
+Keelbreaker,,,,,,,TOB2
+Sporous,,,,,,,TOB2
+Crimson Shambler,,,,,,,TOB2
+Crocotta,,,,,,,TOB2
+Dagon,,,,,,,TOB2
+De Ogen,,,,,,,TOB2
+Death Barque,,,,,,,TOB2
+Death Vulture,,,,,,,TOB2
+Deathspeaker,,,,,,,TOB2
+Deathweaver,,,,,,,TOB2
+Culicoid,,,,,,,TOB2
+Derro Explorer,,,,,,,TOB2
+Derro Guard,,,,,,,TOB2
+Derro Shadowseeker,,,,,,,TOB2
+Blood Imp,,,,,,,TOB2
+Nephirron,,,,,,,TOB2
+Scribe,,,,,,,TOB2
+Dimensional Shambler,,,,,,,TOB2
+Dragon Skeleton,,,,,,,TOB2
+Soulhoarder,,,,,,,TOB2
+Dread Walker,,,,,,,TOB2
+Mountain Dryad,,,,,,,TOB2
+Egret Harpy,,,,,,,TOB2
+Earthstorm Elemental,,,,,,,TOB2
+Fire-Infused Water,,,,,,,TOB2
+Mudslide elemental,,,,,,,TOB2
+Steamrage Elemental,,,,,,,TOB2
+Volcanic Elemental,,,,,,,TOB2
+Empusa,,,,,,,TOB2
+Eonic Savant,,,,,,,TOB2
+Epic Elemental,,,,,,,TOB2
+Fabricator,,,,,,,TOB2
+Faceless Wanderer,,,,,,,TOB2
+Falsifier Fog,,,,,,,TOB2
+Fane Spirit,,,,,,,TOB2
+Far Darrig,,,,,,,TOB2
+Far Dorocha,,,,,,,TOB2
+Felid Dragon,,,,,,,TOB2
+Fennec Fox,,,,,,,TOB2
+Fey Revenant,,,,,,,TOB2
+Fleshdreg,,,,,,,TOB2
+Fleshspurned,,,,,,,TOB2
+Flithidir,,,,,,,TOB2
+Forest Emperor,,,,,,,TOB2
+Forest Falcon,,,,,,,TOB2
+"Frog, Resinous",,,,,,,TOB2
+Frost Mole,,,,,,,TOB2
+Future Assassin,,,,,,,TOB2
+Galidroo,,,,,,,TOB2
+Gaunt One,,,,,,,TOB2
+Ghast of Leng,,,,,,,TOB2
+Ghillie Dubh,,,,,,,TOB2
+Ghost Machine,,,,,,,TOB2
+Ghoul Bat,,,,,,,TOB2
+Giant Husk,,,,,,,TOB2
+Abbanith,,,,,,,TOB2
+Glacial Corrupter,,,,,,,TOB2
+Glacier Behemoth,,,,,,,TOB2
+Cave Goat,,,,,,,TOB2
+Bearing Bolem,,,,,,,TOB2
+Blasphemous Golem,,,,,,,TOB2
+Death Shroud Golem,,,,,,,TOB2
+Dragonflesh Golem,,,,,,,TOB2
+Vine Golem,,,,,,,TOB2
+Gorao-ka,,,,,,,TOB2
+Graknork,,,,,,,TOB2
+Great Gray Owl,,,,,,,TOB2
+Greed Swarm,,,,,,,TOB2
+Grimmlet,,,,,,,TOB2
+Grimmlet Swarm,,,,,,,TOB2
+Grove Bear,,,,,,,TOB2
+Guiguai,,,,,,,TOB2
+Gulper Behemoth,,,,,,,TOB2
+Gygazaks,,,,,,,TOB2
+Haleshi,,,,,,,TOB2
+Hantu Penanggal,,,,,,,TOB2
+Harbinger of the Apocalypse,,,,,,,TOB2
+Harbinger of Wrath,,,,,,,TOB2
+Harefolk,,,,,,,TOB2
+Heggarna,,,,,,,TOB2
+Helashruu,,,,,,,TOB2
+Herald of Slaughter,,,,,,,TOB2
+Herald of the Void,,,,,,,TOB2
+Hodag,,,,,,,TOB2
+Holler Spider,,,,,,,TOB2
+Honey Bee,,,,,,,TOB2
+Hongaek,,,,,,,TOB2
+Hooden Horse,,,,,,,TOB2
+Horrormancer,,,,,,,TOB2
+Huecambra,,,,,,,TOB2
+Huli Jing,,,,,,,TOB2
+Husk,,,,,,,TOB2
+Hverhuldra,,,,,,,TOB2
+Ice Bogie,,,,,,,TOB2
+Ikuchi,,,,,,,TOB2
+"Illhveli, Kembingur",,,,,,,TOB2
+"Illhveli, Nauthveli",,,,,,,TOB2
+Imperial Dragon,,,,,,,TOB2
+Incarnate Gloom,,,,,,,TOB2
+Infernal Centaur,,,,,,,TOB2
+Infernal Swarm,,,,,,,TOB2
+Initiate of The Elder Elementals,,,,,,,TOB2
+Irid,,,,,,,TOB2
+Jack of Strings,,,,,,,TOB2
+Jörmungandr,,,,,,,TOB2
+Kachlian,,,,,,,TOB2
+Kamaitachi,,,,,,,TOB2
+Kaveph,,,,,,,TOB2
+Kelp Eel,,,,,,,TOB2
+Kezai,,,,,,,TOB2
+Khodumodumo,,,,,,,TOB2
+Kirikari,,,,,,,TOB2
+Knight Aberrant,,,,,,,TOB2
+Kobold Spellclerk,,,,,,,TOB2
+Kobold War Machine,,,,,,,TOB2
+Lambent Witchfyre,,,,,,,TOB2
+Lava Keeper,,,,,,,TOB2
+Lazavik,,,,,,,TOB2
+Leech Swarm,,,,,,,TOB2
+Virtuoso Lich,,,,,,,TOB2
+Locksmith,,,,,,,TOB2
+Luck Leech,,,,,,,TOB2
+Greater Lunarchidna,,,,,,,TOB2
+Lunarchidna,,,,,,,TOB2
+Lunarian,,,,,,,TOB2
+Lymarien,,,,,,,TOB2
+Lymarien Swarm,,,,,,,TOB2
+Mad Piper,,,,,,,TOB2
+Mage-King,,,,,,,TOB2
+Magma Octopus,,,,,,,TOB2
+Manggus,,,,,,,TOB2
+Mari Lwyd,,,,,,,TOB2
+Marsh Dire,,,,,,,TOB2
+Megaloceros,,,,,,,TOB2
+Megawolf,,,,,,,TOB2
+Mei Jiao Shou,,,,,,,TOB2
+Merlin Ambrosius,,,,,,,TOB2
+"Mongoose, Giant",,,,,,,TOB2
+Moonkite,,,,,,,TOB2
+Morgan le Fay,,,,,,,TOB2
+Morrígan,,,,,,,TOB2
+Mother of Vampires,,,,,,,TOB2
+Mountain Strider,,,,,,,TOB2
+Scroll Mummy,,,,,,,TOB2
+Murgrik,,,,,,,TOB2
+Mydnari,,,,,,,TOB2
+Swamp Naga,,,,,,,TOB2
+Naizu-ha,,,,,,,TOB2
+Narshark,,,,,,,TOB2
+Nature Giant,,,,,,,TOB2
+Necrolord,,,,,,,TOB2
+Nharyth,,,,,,,TOB2
+Nidhoggr,,,,,,,TOB2
+Nightmare Predator,,,,,,,TOB2
+Noth-norren,,,,,,,TOB2
+Nyctli,,,,,,,TOB2
+Nyctli Swarm,,,,,,,TOB2
+Odin,,,,,,,TOB2
+Ogrepede,,,,,,,TOB2
+Onyx Magistrate,,,,,,,TOB2
+Ophidiotaur,,,,,,,TOB2
+Ophinix,,,,,,,TOB2
+Ophio Fungus,,,,,,,TOB2
+Gray Orc,,,,,,,TOB2
+Orniraptor,,,,,,,TOB2
+Orphan of the Black,,,,,,,TOB2
+Ortifex,,,,,,,TOB2
+Otterfolk,,,,,,,TOB2
+Overshadow,,,,,,,TOB2
+Pal-Rai-Yuk,,,,,,,TOB2
+Pale Screamer,,,,,,,TOB2
+Parzz’val,,,,,,,TOB2
+Peat Mammoth,,,,,,,TOB2
+Pestilence Swarm,,,,,,,TOB2
+Pine Doom,,,,,,,TOB2
+Pixie’s Umbrella,,,,,,,TOB2
+Plague Spirit,,,,,,,TOB2
+Primal Oozer,,,,,,,TOB2
+Pumpkin King,,,,,,,TOB2
+Pustulent Shambler,,,,,,,TOB2
+Qiqirn,,,,,,,TOB2
+"Qiqirn, Tormented",,,,,,,TOB2
+Quickserpent,,,,,,,TOB2
+Quoreq,,,,,,,TOB2
+Repository,,,,,,,TOB2
+Righteous Sentinel,,,,,,,TOB2
+Robodragon,,,,,,,TOB2
+Rock Roach,,,,,,,TOB2
+Rotsam,,,,,,,TOB2
+Rotsam Swarm,,,,,,,TOB2
+Rum Lord,,,,,,,TOB2
+Runeswarm,,,,,,,TOB2
+Sapphire Jelly,,,,,,,TOB2
+Sarsaok,,,,,,,TOB2
+Sasquatch,,,,,,,TOB2
+Satarre,,,,,,,TOB2
+Scarlet Ibis,,,,,,,TOB2
+Scrofin,,,,,,,TOB2
+Sema,,,,,,,TOB2
+Servant of the Unsated God,,,,,,,TOB2
+Shadow Boxer,,,,,,,TOB2
+Shadow of Death,,,,,,,TOB2
+Shiftshroom,,,,,,,TOB2
+Shimmer Seal,,,,,,,TOB2
+Shukankor,,,,,,,TOB2
+Shurale,,,,,,,TOB2
+Silenal,,,,,,,TOB2
+Sulsha,,,,,,,TOB2
+Cackling Skeleton,,,,,,,TOB2
+Swordbreaker Skeleton,,,,,,,TOB2
+Snow Terror,,,,,,,TOB2
+Somberweave,,,,,,,TOB2
+"Spark Swarm, Radiant",,,,,,,TOB2
+Spellhound,,,,,,,TOB2
+Balloon Spider,,,,,,,TOB2
+Ssadar,,,,,,,TOB2
+Stellar Rorqual,,,,,,,TOB2
+Stone Creeper,,,,,,,TOB2
+Storm Maiden,,,,,,,TOB2
+Stormboar,,,,,,,TOB2
+Strobing Fungus,,,,,,,TOB2
+Swamp Lily,,,,,,,TOB2
+Swampgas Bubble,,,,,,,TOB2
+Swarm of Bees,,,,,,,TOB2
+Swarm of Compsognathus,,,,,,,TOB2
+Swarm of Death,,,,,,,TOB2
+Swarm of Esteron,,,,,,,TOB2
+Tembril,,,,,,,TOB2
+Tetomatli,,,,,,,TOB2
+Thornheart Guardian,,,,,,,TOB2
+Thrummren,,,,,,,TOB2
+Tidehunter,,,,,,,TOB2
+Timingila,,,,,,,TOB2
+Tophet,,,,,,,TOB2
+"Treant, Mangrove",,,,,,,TOB2
+Tree Skinner,,,,,,,TOB2
+Tricenatorus,,,,,,,TOB2
+Deep Troll,,,,,,,TOB2
+Trollkin Raider,,,,,,,TOB2
+Ulnorya,,,,,,,TOB2
+Valkruung,,,,,,,TOB2
+Vallowex,,,,,,,TOB2
+Psychic Vampire,,,,,,,TOB2
+Vangsluagh,,,,,,,TOB2
+Vexxeh,,,,,,,TOB2
+Viiret,,,,,,,TOB2
+Voidpool,,,,,,,TOB2
+Walled Horror,,,,,,,TOB2
+Wanyudo,,,,,,,TOB2
+Wardu,,,,,,,TOB2
+Warmth Thief,,,,,,,TOB2
+Water Scorpion,,,,,,,TOB2
+Water Skate,,,,,,,TOB2
+Werynax,,,,,,,TOB2
+Wicked Skull,,,,,,,TOB2
+Willowhaunt,,,,,,,TOB2
+Windy Wailer,,,,,,,TOB2
+Winterghast,,,,,,,TOB2
+Wintergrim,,,,,,,TOB2
+Woe Siphon,,,,,,,TOB2
+Wood Ward,,,,,,,TOB2
+Wraith Bear,,,,,,,TOB2
+Xing Tian,,,,,,,TOB2
+Yaojing,,,,,,,TOB2
+Yathon,,,,,,,TOB2
+Yavalnoi,,,,,,,TOB2
+Yowler,,,,,,,TOB2
+Yskarakta,,,,,,,TOB2
+Yumerai,,,,,,,TOB2
+Zalikum,,,,,,,TOB2
+Zeitgeist,,,,,,,TOB2
+Zouyu,,,,,,,TOB2

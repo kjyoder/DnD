@@ -1,0 +1,142 @@
+---
+title: "MobNet - Training Neural Network on monster names"
+date: "March 3, 2022"
+author: Keith J. Yoder
+output: html_notebook
+---
+
+```{r setup}
+library(dplyr)
+library(readr)
+library(stringr)
+library(purrr)
+library(tidyr)
+library(keras)
+```
+
+```{r lookup_table}
+character_lookup <- data.frame(character = c(letters,".","-"," ","+"))
+character_lookup[["character_id"]] <- 1:nrow(character_lookup)
+
+max_length <- 10
+num_characters <- nrow(character_lookup) + 1
+```
+
+```{r load_data}
+mobs <- read_csv('data/mobs.csv',
+                 col_types = cols(
+                   .default = col_character(),
+                   Challenge = col_double(),
+                   XP = col_double()
+                 )) %>%
+  mutate_all(toupper) %>%
+  filter(!str_detect(Name, "[^ \\.-[a-zA-Z]]")) %>%
+  mutate_all(stringi::stri_trans_tolower) %>%
+  filter(Name != "") %>%
+  mutate(id = row_number())
+```
+
+```{r subsequence_data}
+subsequence_data <-
+  mobs %>%
+  mutate(accumulated_name =
+           Name %>%
+           str_c("+") %>%
+           str_split("") %>%
+           map( ~ purrr::accumulate(.x,c))
+         ) %>%
+  select(accumulated_name) %>%
+  unnest(accumulated_name) %>%
+  arrange(runif(n())) %>% # ensure shuffled order
+  pull(accumulated_name)
+```
+
+```{r build_text_matrix}
+text_matrix <-
+  subsequence_data %>%
+  map(~ character_lookup$character_id[match(.x,character_lookup$character)]) %>% 
+  pad_sequences(maxlen = max_length+1) %>% 
+  to_categorical(num_classes = num_characters) 
+```
+
+```{r split_x_y}
+x_name <- text_matrix[,1:max_length,]
+y_name <- text_matrix[,max_length+1,]
+```
+
+```{r define_model}
+input <- layer_input(shape = c(max_length,num_characters)) 
+
+output <- 
+  input %>%
+  layer_lstm(units = 32, return_sequences = TRUE) %>%
+  layer_lstm(units = 32, return_sequences = FALSE) %>%
+  layer_dropout(rate = 0.2) %>%
+  layer_dense(num_characters) %>%
+  layer_activation("softmax")
+
+model <- keras_model(inputs = input, outputs = output) %>% 
+  compile(
+    loss = 'categorical_crossentropy',
+    optimizer = "adam"
+  )
+```
+
+```{r train_model}
+fit_results <- model %>%
+  fit(
+  x_name,
+  y_name,
+  epochs = 25,    # number of times you pass input to model
+  batch_size = 64 # number of repetitions at each epoch (smaller -> better learning)
+  )
+
+save_model_hdf5(model, 'MobNet_TOB2.h5')
+```
+
+```{r generate_name_func}
+generate_name <- function(model, character_lookup, max_length, temperature = 1){
+  choose_next_char <- function(preds, character_lookup, temperature){
+    preds <- log(preds)/temperature
+    exp_preds <- exp(preds)
+    preds <- exp_preds/sum(exp(preds))
+    next_index <- which.max(as.integer(rmultinom(1, 1, preds)))
+    character_lookup$character[next_index-1]
+  }
+  
+  in_progress_name <- character(0)
+  next_letter <- ""
+  
+  while(next_letter != "+" && length(in_progress_name) < 30){
+    previous_letters_data <- 
+      lapply(list(in_progress_name), function(.x){
+        character_lookup$character_id[match(.x,character_lookup$character)]
+      })
+    previous_letters_data <- pad_sequences(previous_letters_data,
+                                           maxlen = max_length)
+    previous_letters_data <- to_categorical(previous_letters_data,
+                                            num_classes = num_characters)
+    
+    next_letter_probabilities <- 
+      predict(model,previous_letters_data)
+    
+    next_letter <- choose_next_char(next_letter_probabilities,
+                                    character_lookup,
+                                    temperature)
+    
+    if(next_letter != "+")
+      in_progress_name <- c(in_progress_name,next_letter)
+  }
+  
+  raw_name <- paste0(in_progress_name, collapse="")
+  
+  capitalized_name <-gsub("\\b(\\w)","\\U\\1",raw_name,perl=TRUE)
+  
+  capitalized_name
+}
+```
+
+```{r generate_one}
+generate_name(model, character_lookup, max_length)
+```
+

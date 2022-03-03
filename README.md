@@ -6,3 +6,5 @@ A neutral network trained to generate random monster names. Need a quick name fo
 * `Ilkel`
 * `Ster`
 * `Brino`
+
+Read more [here](http://keithyoder.com/2022/03/03/introducing-mobnet/)
